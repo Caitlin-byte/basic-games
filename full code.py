@@ -1,13 +1,3 @@
-# By submitting this assignment, I agree to the following:
-# "Aggies do not lie, cheat, or steal, or tolerate those who do."
-# "I have not given or received any unauthorized aid on this assignment."
-#
-# Names: Caitlin McInerny
-#        Charu Mohan
-#        Isabel Stowe
-#        Isabella Hagen
-# Section: 574
-
 
 print("Welcome to our final project!")
 #imports
